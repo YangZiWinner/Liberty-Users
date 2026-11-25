@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Admin",
+      "password": "sha256:55df818ddc2d77ec710d544bb4c7591855a1f62353577ff4753855f90e85b97e",
+      "tier": "beta"
+    },
+    {
+      "name": "Friend",
+      "password": "sha256:57b729e4125c7851eb5d89de6d32108659cbacd4071f49a0ce543a41567cbe44",
+      "tier": "stable"
+    }
+  ]
+}
