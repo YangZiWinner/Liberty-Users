@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "name": "Admin",
-      "password": "sha256:55df818ddc2d77ec710d544bb4c7591855a1f62353577ff4753855f90e85b97e",
+      "name": "YangZi",
+      "password": "sha256:7bfba5092856a6e495fd3a52f6649ce4c47704f3bd385d2208ee82422ba180e8",
       "tier": "beta",
       "dev": true
     },
     {
-      "name": "Friend",
+      "name": "001",
       "password": "sha256:57b729e4125c7851eb5d89de6d32108659cbacd4071f49a0ce543a41567cbe44",
       "tier": "stable",
       "dev": false
