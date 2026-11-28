@@ -11,6 +11,12 @@
       "password": "sha256:8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
       "tier": "stable",
       "dev": false
+    },
+   {
+      "name": "Blake",
+      "password": "sha256:313bf2ea0e20879446ee209c8b35192813b407e501a3ad64d58c6f8fa35cbb8a",
+      "tier": "beta",
+      "dev": false
     }
   ]
 }
